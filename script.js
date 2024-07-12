@@ -10,6 +10,7 @@ function clickme(){
         a=0;   
     }
 }
+let a = 0;
 let box = document.getElementById('box');
 let button1 = document.getElementById('button1');
 button1.addEventListener('mouseover',(e)=>{
